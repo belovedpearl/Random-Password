@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(255, 255, 255, 0.322);
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+span{
+    color: aquamarine;
+}
+.container{
+    background: linear-gradient(45deg, pink, purple, darkBlue);
+    padding: 20px;
+    margin: 5px;
+    border: 3px solid white;
+    border-radius: 10px;
+    width: 500px;
+    height: 500px;
+}
+h2{
+  font-weight: bolder;
+  font-size: 50px ;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    border: 3px solid aquamarine;
+}
+input{
+    margin: 20px;
+    padding: 10px ;
+    border-radius: 5px;
+    background-color: purple;
+}
+.line{
+    
+}
